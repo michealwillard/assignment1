@@ -3,3 +3,5 @@ Hello, my name is Micheal Willard. This is my fourth term in the CS program here
 
 ##Programming Background
 The bulk of my programming experience has been from this program. So I am a little comfortable in C++ now, with a half a year’s experience. I do most of my programming on Xcode on my Mac. I’ve explored into their Objective-C kits a little bit and have also begun to work on learning Java. Prior to enrolling in this class, I had little programming experience in college. We used MathLab and ANSYS (a finite element analysis software that uses ANSYS Parametric Design Language). In high school I had more experience. I was very fluent in HTML, had a little javascript knowledge and took two Cisco Networking courses. 
+
+The most enjoyable project I have worked on in this program so far came back in CS 161.  I Chose to make very basic command line/text based RPG game.
