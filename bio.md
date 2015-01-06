@@ -1,5 +1,5 @@
 ##About Me
-Hello, my name is Micheal Willard. This is my fourth term in the CS program here. I am originally from Belgrade, MT where I graduated from Montana State University with a BS in Mechanical Engineering in 2008. After that I moved to Seattle where I am currently working for a well known aircraft manufacturer.
+Hello, my name is Micheal Willard. This is my fourth term in the CS program here. I am originally from Belgrade, MT where I graduated from Montana State University with a BS in Mechanical Engineering in 2008. My first job out of school was designing galleys and seats for commercial airlines.  After that I moved to Seattle where I am currently working for a well known aircraft manufacturer.
 
 In the summer I play in an adult baseball league and in the winter I spend my weekends skiing the steep and deep. When I had more free time I enjoyed brewing beer, remodeling my house, mountain biking, video games, hacking and modding products and spending too much time and money on LEGO.
 
